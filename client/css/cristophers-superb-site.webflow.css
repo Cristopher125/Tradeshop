@@ -131,6 +131,7 @@
 }
 
 .div-block-3 {
+  display: block;
   width: 90%;
   height: 600px;
   margin: auto;
